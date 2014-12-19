@@ -186,4 +186,5 @@ add_action( 'twentyten_credits', 'zh_cn_l10n_icp_num' );
 add_action( 'twentyeleven_credits', 'zh_cn_l10n_icp_num' );
 add_action( 'twentytwelve_credits', 'zh_cn_l10n_icp_num' );
 add_action( 'twentythirteen_credits', 'zh_cn_l10n_icp_num' );
+add_action( 'twentyfourteen_credits', 'zh_cn_l10n_icp_num' );
 ?>
